@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "firstName": "Vaibhav",
+      "lastName": "Darandale",
+      "email": "vaibhavdarandale@example.com"
+    },
+    {
+      "id": "2",
+      "firstName": "Akshat",
+      "lastName": "Saxena",
+      "email": "akshat@example.com"
+    },
+    {
+      "id": "4",
+      "firstName": "Suraj",
+      "lastName": "Sing",
+      "email": "suraj@example.com"
+    },
+    {
+      "id": "5",
+      "firstName": "Sagar",
+      "lastName": "Dalal",
+      "email": "sagar@example.com"
+    }
+  ],
+  "friends": [
+    {
+      "id": "5",
+      "firstName": "Sagar",
+      "lastName": "Dalal",
+      "email": "sagar@example.com"
+    },
+    {
+      "userId": "1",
+      "id": "ry9BsTu"
+    },
+    {
+      "userId": "1",
+      "id": "GCejP5P"
+    }
+  ]
+}
